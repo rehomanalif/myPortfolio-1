@@ -55,12 +55,6 @@ export const Introduction = () => {
                 </span>
                 YouTuber{" "}
               </h4>
-              <h4 className="different">
-                <span className="icons">
-                  <ExitToAppIcon />
-                </span>
-                Poet{" "}
-              </h4>
             </div>
           </div>
         </div>
